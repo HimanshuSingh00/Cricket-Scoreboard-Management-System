@@ -24,3 +24,14 @@
 - Open Cricket Score Folder.
 - Go to score.html file, right click on it the and then click on open with Google Chrome(any web browers).
 - The Cricket Scoreboard Management System App will start working on your browers.
+
+
+* Github Repository Link *
+  ---------------------
+  https://github.com/HimanshuSingh00/Cricket-Scoreboard-Management-System
+  
+
+* Live Deployed Website Link (Netify) *
+  -----------------------------------
+  https://cricket-scoreboard-1.netlify.app/
+  
