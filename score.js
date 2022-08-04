@@ -66,7 +66,7 @@ endBtn.addEventListener("click", function () {
       x.style.backgroundColor = "green";
     });
 
-    message.textContent = "HOME TEAM WINS";
+    message.textContent = "TEAM 1 WINS";
     isalive = false;
   } else if (homeScore === guestScore) {
     guestBG.classList.add("draw");
@@ -88,7 +88,7 @@ endBtn.addEventListener("click", function () {
     g_btn.forEach((x) => {
       x.style.backgroundColor = "green";
     });
-    message.textContent = "GUEST TEAM WINS";
+    message.textContent = "TEAM 2 WINS";
     isalive = false;
   }
 });
